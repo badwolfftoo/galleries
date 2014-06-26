@@ -1,0 +1,4 @@
+galleries
+=========
+
+gallery information
